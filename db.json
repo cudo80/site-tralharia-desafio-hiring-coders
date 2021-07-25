@@ -1,1 +1,37 @@
-
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Poltrona",
+      "price": 599.99,
+      "category": "antiguidade",
+      "image": "https://drive.google.com/file/d/1jiKro_4nNc_uCNQ8mWW1Vr0DcQ6Jc10v/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "title": "Luminária",
+      "price": 259.99,
+      "category": "antiguidade",
+      "image": "https://drive.google.com/file/d/1TB6vDGzsklaHBo4EVWyQnmL2ByLLhc4K/view?usp=sharing"
+    },
+    {
+      "id": 3,
+      "title": "Escrivaninha",
+      "price": 799.99,
+      "category": "antiguidade",
+      "image": "https://drive.google.com/file/d/12RPWNscqB7eKvx8JyMRs8hwQd123WKDw/view?usp=sharing"
+    },
+    {
+      "id": 4,
+      "title": "Poltronas de Teatro",
+      "price": 799.99,
+      "category": "antiguidade",
+      "image": "https://drive.google.com/file/d/1P5ncTYOaN-aKWav0UbEccRkwTowbcOwX/view?usp=sharing"
+    },
+    {
+      "id": 5,
+      "title": "Cooler Coca-Cola",
+      "price": 599.99,
+      "category": "antiguidade",
+      "image": "https://drive.google.com/file/d/1tydijY7ktGcGuQFvMDO8K8xuOEljKx2k/view?usp=sharing"
+    }
